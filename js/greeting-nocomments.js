@@ -2,7 +2,7 @@
   let myName = document.getElementById("my-name"); 
   let userName = document.getElementById("user-name"); 
   let getName = document.getElementById("get-name");
-  let myName2 = document.getElementById("my-name"); 
+  let myName2 = document.getElementById("my-name2"); 
   
   
   function PerformGreeting() {
