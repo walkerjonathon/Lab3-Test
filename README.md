@@ -1,4 +1,4 @@
-# A simple introduction to JavaScript and the DOM LEICESTER2
+# A simple introduction to JavaScript and the DOM LEICESTER
 
 If you have GIT available, *clone* this repository using `git clone https://github.com/CTEC3905/03-lab-javascript-1.git` instead of just downloading it.
 
